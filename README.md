@@ -1,5 +1,5 @@
 
-# 🎉 KudosBot Setup Guide
+# 🎉 RecognitionBot Setup Guide
 
 Welcome to **KudosBot**! Follow this step-by-step guide to get the bot up and running on your machine, even if you're a beginner! 🚀
 
