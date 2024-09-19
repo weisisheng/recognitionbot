@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@slack/events-api": "^3.0.1",
+    "@slack/web-api": "^7.4.0",
+    "canvas": "^2.11.2",
+    "dotenv": "^16.4.5",
+    "next": "14.2.8",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.8"
+    "sharp": "^0.33.5"
   }
 }
